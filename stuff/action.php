@@ -2,7 +2,7 @@
 <body>
 <?php
 $USERARRAY= array("God", "Kosuke", "Jimmy");
-$HASHARRAY = array("d600474b1b8e50d3633c91c0cf1efc454b79c9624a43fd7de441ee71745726ab", "b2efa0c461ed7748a1ea14db54ab9fe01550a27aa16688d65e628ff869d3459f", "be9ab1e9a728bb53334897dbb6f874d07a723fd636dc3da9bd4c67c95dc8310e",);
+$HASHARRAY = array("08e00d4c7c032d91721362f24a869fe64dc9b69cab6b4f26c2802ba072685f16", "b2efa0c461ed7748a1ea14db54ab9fe01550a27aa16688d65e628ff869d3459f", "be9ab1e9a728bb53334897dbb6f874d07a723fd636dc3da9bd4c67c95dc8310e",);
 $Y = hash('sha256', $_POST["P"]);
 $XOR = xor_this($_POST["P"]);
 $C = count($USERARRAY);
