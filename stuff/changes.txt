@@ -1,0 +1,23 @@
+Version 0.1
+-------------
+* Login!!!!
+* Chat!!!
+
+Version 0.2
+-----------
+* Nicer login!!
+* Live chat!!
+
+Version 0.3
+-----------
+*Security upgraded
+
+Version 0.4
+-------------
+*Code cleanup
+*Even more security
+*You messages now clear after pressing enter.
+
+Version 0.45
+------------
+*Even more security I can pretty much safely release the source code at this point was
